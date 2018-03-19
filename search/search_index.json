@@ -1,0 +1,54 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/terminal/",
+            "text": "\u0422\u0435\u0440\u043c\u0438\u043d\u0430\u043b",
+            "title": "Termonal"
+        },
+        {
+            "location": "/terminal/#_1",
+            "text": "",
+            "title": "\u0422\u0435\u0440\u043c\u0438\u043d\u0430\u043b"
+        },
+        {
+            "location": "/python/",
+            "text": "Pyton 3\n\n\n\u042d\u0442\u043e\u0442 \u0442\u0435\u043a\u0441\u0442 \u0431\u0443\u0434\u0435\u0442 \u0432\u0438\u0434\u0435\u043d**\n\n\n\u042d\u0442\u043e\u0442 \u043d\u0435\u0442",
+            "title": "Python-3"
+        },
+        {
+            "location": "/python/#pyton-3",
+            "text": "",
+            "title": "Pyton 3"
+        },
+        {
+            "location": "/python/#_1",
+            "text": "",
+            "title": "\u042d\u0442\u043e\u0442 \u0442\u0435\u043a\u0441\u0442 \u0431\u0443\u0434\u0435\u0442 \u0432\u0438\u0434\u0435\u043d**"
+        },
+        {
+            "location": "/python/#_2",
+            "text": "",
+            "title": "\u042d\u0442\u043e\u0442 \u043d\u0435\u0442"
+        }
+    ]
+}
